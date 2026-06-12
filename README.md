@@ -57,6 +57,21 @@ The Power BI dashboard provides:
 * Account type analysis
 * Interactive filtering and exploration
 * Business-focused insights
+  # Digital Banking Customer Analytics
+
+## Dashboard Preview
+
+![Dashboard 1](executive overview pge 1 dashboard)
+
+![Dashboard 2](page 2 one)
+
+![Dashboard 3](page 2 two)
+
+![Dashboard 4](page 3)
+
+![Dashboard 5](page 4 dsh)
+
+![Dashboard 3](page 5)
 
 ## Project Structure
 
