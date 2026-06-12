@@ -61,18 +61,25 @@ The Power BI dashboard provides:
 
 ## Dashboard Preview
 
-![Dashboard 1](executive overview pge 1 dashboard)
+## Dashboard Preview
 
-![Dashboard 2](page 2 one.png)
+### Executive Overview
+![Dashboard 1](executive%20overview%20pge%201%20dashboard.png)
 
-![Dashboard 3](page 2 two.png)
+### Customer Analysis
+![Dashboard 2](page%202%20one.png)
 
-![Dashboard 4](page 3.png)
+### Customer Analysis (Continued)
+![Dashboard 3](page%202%20two.png)
 
-![Dashboard 5](page 4 dsh.png)
+### Risk Analysis
+![Dashboard 4](page%203.png)
 
-![Dashboard 3](page 5.png)
+### Business Insights
+![Dashboard 5](page%204%20dsh.png)
 
+### Additional Analysis
+![Dashboard 6](page%205.png)
 ## Project Structure
 
 * Python scripts for data generation and analysis
