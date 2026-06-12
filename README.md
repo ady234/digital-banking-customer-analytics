@@ -63,15 +63,15 @@ The Power BI dashboard provides:
 
 ![Dashboard 1](executive overview pge 1 dashboard)
 
-![Dashboard 2](page 2 one)
+![Dashboard 2](page 2 one.png)
 
-![Dashboard 3](page 2 two)
+![Dashboard 3](page 2 two.png)
 
-![Dashboard 4](page 3)
+![Dashboard 4](page 3.png)
 
-![Dashboard 5](page 4 dsh)
+![Dashboard 5](page 4 dsh.png)
 
-![Dashboard 3](page 5)
+![Dashboard 3](page 5.png)
 
 ## Project Structure
 
